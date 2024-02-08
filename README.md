@@ -5,6 +5,6 @@ API that I used: https://secrets-api.appbrewery.com/
 <ol>
 <li>No auth: no security door</li>
 <li>Basic Auth: require username & password</li>
-<li>API Key: for calling project. for clients that are alllowed to use the service.</li>
+<li>API Key: for calling project. for clients that are alllowed to use the service. can ebe used with authentitcation to obtain API key</li>
 <li>Token: require username & password to generate unique token.</li>
 </ol>
