@@ -1,6 +1,6 @@
 # api-authentication
-Learn about No Authentication, Basic Authentication, API Key Authorisationm, Token Based Authentication, and Base64.
-API that I used: https://secrets-api.appbrewery.com/
+Learn about No Authentication, Basic Authentication, API Key Authorisationm, Token Based Authentication, and Base64. <br>
+This is an API that I used: https://secrets-api.appbrewery.com/
 <h4>Differences</h4>
 <ol>
 <li>No auth: no security door</li>
