@@ -8,5 +8,6 @@ This is an API that I used: https://secrets-api.appbrewery.com/
 <li>API Key: for calling project. for clients that are alllowed to use the service. can ebe used with authentitcation to obtain API key</li>
 <li>Token: require username & password to generate unique token.</li>
 </ol>
-<h4>Differences</h4>
-In order to make them functional, we have to register username and password via Postman first, then fill up those inputs (yourUsername and yourPassword) inside the code.
+<h4>Reminder</h4>
+- In order to make them functional, we have to register username and password via Postman first, then fill up those inputs (yourUsername and yourPassword) inside the code.
+- npm install in the terminal before running the server.
