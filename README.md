@@ -9,5 +9,5 @@ This is an API that I used: https://secrets-api.appbrewery.com/
 <li>Token: require username & password to generate unique token.</li>
 </ol>
 <h4>Reminder</h4>
-- In order to make them functional, we have to register username and password via Postman first, then fill up those inputs (yourUsername and yourPassword) inside the code.
+- In order to make them functional, we have to register username and password via Postman first, then fill up those inputs (yourUsername and yourPassword) inside the code.<br>
 - npm install in the terminal before running the server.
